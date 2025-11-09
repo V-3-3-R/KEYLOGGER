@@ -1,6 +1,8 @@
 Simple Keylogger Demo
 
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)](https://jupyter.org/)
 
 Overview
 This repository contains simple Python-based keylogger scripts designed for educational and demonstration purposes only. These scripts demonstrate basic keystroke capture and logging techniques using the pynput library. One script logs keystrokes to a file, while the other sends periodic logs via email.
