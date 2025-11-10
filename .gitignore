@@ -1,0 +1,115 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environments
+venv/
+env/
+.venv/
+env.bak/
+venv.bak/
+
+# Installer / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Distribution / coverage
+pip-wheel-metadata/
+htmlcov/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*,cover
+.tox/
+.nox/
+
+# Tests / pytest
+.pytest_cache/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and runtime files
+*.log
+logs/
+log.txt
+runtime/
+*.pid
+*.seed
+
+# Environment variables / credentials (VERY IMPORTANT)
+.env
+.env.*      # env.local, env.production, etc.
+secrets.env
+credentials.json
+config/*.key
+config/*.pem
+
+# Email / SMTP creds & tokens (never commit)
+*.key
+*.pem
+*.p12
+*.jks
+*.crt
+*.csr
+tokens/
+*.token
+
+# Data and artifacts (sensitive or large)
+data/
+datasets/
+*.csv
+*.sqlite3
+*.db
+*.zip
+*.tar.gz
+
+# Office docs and screenshots (if they contain sensitive images/info)
+*.docx
+*.pptx
+screenshots/
+images/
+
+# Node / frontend (if included)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Optional: ignore models or large binaries
+models/
+*.bin
+*.h5
+*.pt
+
+# Misc
+.coverage
+*.bak
+*.swp
