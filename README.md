@@ -110,4 +110,4 @@ If you want a help creating safe, non-actionable materials (lab checklists, dete
 
 ---
 
-**If you’d like a version of the README tailored for a classroom demo or a defensive research lab (with a safe checklist and telemetry examples), tell me which audience — `students`, `IR teams`, or `sysadmins` — and I’ll produce that next.**
+Built with ❤️ for learning cybersecurity basics.
